@@ -1,0 +1,14 @@
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+} /* sirve para no usar los estilos de losnavegadores por default */
+
+h1 {
+    color: rgb(61, 16, 23);
+
+}
+
+body {
+    background-image: radial-gradient(circle, rgba(221,190,236,1) 54%, rgba(215,125,213,1) 100%);;
+}
